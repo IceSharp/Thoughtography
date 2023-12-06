@@ -324,7 +324,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 请设置文章作者
+        name: 乘月又乘风
         url: /
       # 文章创建日期
       date:
